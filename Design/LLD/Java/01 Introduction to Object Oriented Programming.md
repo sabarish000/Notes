@@ -152,9 +152,7 @@ public class TestImperative {
 	public static void main(String[] args)
 	{
 		List<Integer> numbers
-			= Arrays.asList(11, 22, 33, 44,
-							55, 66, 77, 88,
-							99, 100);
+			= Arrays.asList(11, 22, 33, 44, 55, 66, 77, 88, 99, 100);
 
 		int result = 0;
 		for (Integer n : numbers) {
@@ -176,9 +174,7 @@ public class GFG {
 	public static void main(String[] args)
 	{
 		List<Integer> numbers
-			= Arrays.asList(11, 22, 33, 44,
-							55, 66, 77, 88,
-							99, 100);
+			= Arrays.asList(11, 22, 33, 44, 55, 66, 77, 88, 99, 100);
 
 		System.out.println(
 			numbers.stream()
