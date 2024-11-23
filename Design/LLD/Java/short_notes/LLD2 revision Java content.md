@@ -5,7 +5,7 @@
 
 - Backend LLD: SOLID-1: SRP and OCP :  [Link](https://github.com/kanmaytacker/fundamentals/blob/master/oop/notes/04-solid-01.md)
 
-- Backend LLD: SOLID-2: Liskov's, Interface Segregation, Dependency Inversion :  [Link](https://github.com/kanmaytacker/fundamentals/blob/master/oop/notes/05-solid-02.md)
+- Backend LLD: SOLID-2: Liskov's, Interface Segregation, Dependency Inversion :  [Link](https://github.com/kanmaytacker/fundamentals/blob/master/oop/notes/05-solid-02.md) , [Liskov's](https://baeldung.com/java-liskov-substitution-principle)
 
 - Backend LLD: Design Patterns: Introduction and Singleton :  [Link](https://github.com/kanmaytacker/design-patterns/blob/master/notes/01-singleton-builder.md)
 
